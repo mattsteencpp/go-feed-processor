@@ -18,14 +18,14 @@ package main
 // need to handle updates (check id/guid)
 // need to handle limited sizes (for some feeds)
 // potential issue: unmarshal ignores data that doesn't match a defined attribute.
-// that makes it easy to lose metadata or other properties - more important for 
+// that makes it easy to lose metadata or other properties - more important for
 // podcasts than other feeds...
 
 import (
 	"fmt"
+	"github.com/mattsteencpp/go-feed-processor/processor"
 	"os"
 	"path/filepath"
-	"github.com/mattsteencpp/go-feed-processor/processor"
 )
 
 func main() {
