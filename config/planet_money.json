@@ -3,11 +3,11 @@
 	"Files": [
 		{
 			"Filename": "excluded",
-			"Episode_Regex": "#(\\d*):.*"
+			"EpisodeRegex": "#(\\d*):.*"
 		},
 		{
 			"Filename": "main",
-			"Include_All": true
+			"IncludeAll": true
 		}
 	]
 }

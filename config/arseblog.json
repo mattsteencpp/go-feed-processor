@@ -11,7 +11,7 @@
 		},
 		{
 			"Filename": "main",
-			"Include_All": true
+			"IncludeAll": true
 		}
 	]
 }

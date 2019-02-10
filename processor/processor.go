@@ -66,12 +66,13 @@ type Config struct {
 }
 
 type File struct {
-	Filename   string
-	IncludeAll bool
-	Titles     []string
-	Content    []string
-	Authors    []string
-	Links      []string
+	Filename     string
+	IncludeAll   bool
+	EpisodeRegex string
+	Titles       []string
+	Content      []string
+	Authors      []string
+	Links        []string
 }
 
 func GetFeedBody(url string) []byte {
