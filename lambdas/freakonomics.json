@@ -1,0 +1,17 @@
+{
+	"Link": "https://rss.art19.com/freakonomics-radio",
+	"Files": [
+		{
+			"Filename": "excluded",
+			"Titles": [
+				"rebroadcast",
+				"Rebroadcast",
+				"REBROADCAST"
+			]
+		},
+		{
+			"Filename": "main",
+			"Include_All": true
+		}
+	]
+}

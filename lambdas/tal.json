@@ -1,0 +1,13 @@
+{
+	"Link": "http://feed.thisamericanlife.org/talpodcast",
+	"Files": [
+		{
+			"Filename": "excluded",
+			"Episode_Regex": "#?(\\d*):.*"
+		},
+		{
+			"Filename": "main",
+			"Include_All": true
+		}
+	]
+}

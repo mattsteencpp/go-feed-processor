@@ -1,0 +1,28 @@
+{
+	"Link": "https://news.ycombinator.com/rss",
+	"Files": [
+		{
+			"Filename": "excluded",
+			"Titles": [
+				"Show HN",
+				"Ask HN",
+				"Launch HN",
+				"hiring",
+				"(YC",
+				"(pdf)",
+				"[pdf]",
+				"[video]",
+				"[audio]",
+				"(20",
+				"(19"
+			],
+			"Links": [
+				"www.theatlantic.com"
+			]
+		},
+		{
+			"Filename": "main",
+			"Include_All": true
+		}
+	]
+}

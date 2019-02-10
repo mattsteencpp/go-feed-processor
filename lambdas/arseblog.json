@@ -1,0 +1,17 @@
+{
+	"Link": "https://arseblog.com/feed",
+	"Files": [
+		{
+			"Filename": "excluded",
+			"Titles": [
+				"Arsenal Gentleman",
+				"Episode ",
+				"live blog"
+			]
+		},
+		{
+			"Filename": "main",
+			"Include_All": true
+		}
+	]
+}
