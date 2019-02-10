@@ -1,0 +1,88 @@
+{
+	"Link": "http://feeds.feedburner.com/TheAtlantic",
+	"Files": [
+		{
+			"Filename": "excluded",
+			"Titles": [
+				"What We're Following",
+				"Track of the Day",
+				"Cheat Sheet",
+				"Quoted",
+				"Daily:",
+				"Radio Atlantic",
+				"A Clinton-Scandal Primer",
+				"The Big Stories This Week",
+				"The Week in Pop-Culture Writing",
+				"A Week Around the World With",
+				"The Week in Global Affairs Writing",
+				"Photos of the Week",
+				"Week in Culture",
+				"The Week in Global-Affairs Writing",
+				"By Heart",
+				"Today's News",
+				"What Do You Know",
+				"2018 Congressional Retirement Tracker",
+				"Letters:",
+				"We Want to Hear From You",
+				"Dear Therapist",
+				"The Family Weekly"
+			],
+			"Contents": [
+				"An Object Lesson"
+			],
+			"Authors": [
+				"David A. Graham"
+			],
+			"Links": [
+				"www.theatlantic.com/education",
+				"www.theatlantic.com/video",
+				"www.theatlantic.com/magazine",
+				"-review",
+				"-by-heart"
+			]
+		},
+		{
+			"Filename": "conor_friedersdorf",
+			"Authors": [
+				"Conor Friedersdorf"
+			]
+		},
+		{
+			"Filename": "ta-nehisi_coates",
+			"Authors": [
+				"Ta-Nehisi Coates"
+			]
+		},
+		{
+			"Filename": "james_fallows",
+			"Authors": [
+				"James Fallows"
+			]
+		},
+		{
+			"Filename": "images",
+			"Titles": [
+				"Sage, Ink:",
+				"Orbital View",
+				"America By Air",
+				"Photos"
+			],
+			"Links": [
+				"www.theatlantic.com/photo"
+			]
+		},
+		{
+			"Filename": "trump",
+			"Titles": [
+				"Trump"
+			],
+			"Contents": [
+				"Trump"
+			]
+		},
+		{
+			"Filename": "main",
+			"Include_All": true
+		}
+	]
+}
