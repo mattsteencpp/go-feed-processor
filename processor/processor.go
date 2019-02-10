@@ -1,28 +1,4 @@
-package main
-
-// TODO: put most code into a lib; have a driver in a separate file so it can be
-// easily switched out for a lambda driver
-
-// TODO: add tests
-
-// TODO?
-// consider adding a setting for whether the feed uses atom, itunes, or not instead of trying raw every time
-
-// TODO
-// tal and planet money - need episode support
-// (other feeds work...)
-
-// TODO: would be cool to record every time we match on a specific property
-// then I could clean up the config to remove outdated exclusions
-// - store in dynamodb (free up to 25GB)
-// need to parse dates before inserting...
-
-// TODO: generate feed files
-// need to handle updates (check id/guid)
-// need to handle limited sizes (for some feeds)
-// potential issue: unmarshal ignores data that doesn't match a defined attribute.
-// that makes it easy to lose metadata or other properties - more important for 
-// podcasts than other feeds...
+package processor
 
 import (
 	"encoding/json"
@@ -31,7 +7,6 @@ import (
 	"io/ioutil"
 	"net/http"
 	"os"
-	"path/filepath"
 	"strings"
 )
 
@@ -99,20 +74,18 @@ type File struct {
 	Links		[]string
 }
 
-func get_feed_body(url string) ([]byte) {
-	fmt.Print("url: %s\n", url)
+func GetFeedBody(url string) ([]byte) {
 	resp, err := http.Get(url)
 	if err != nil {
 		fmt.Printf("There was an error\n")
 	}
-	fmt.Printf("%s\n\n", resp)
 	defer resp.Body.Close()
 	body, err := ioutil.ReadAll(resp.Body)
 	return body
 }
 
 
-func get_config(filename string) Config {
+func GetConfig(filename string) Config {
 	file, err := os.Open(filename)
 	if err != nil {
 		fmt.Println("error:", err)
@@ -169,7 +142,7 @@ func process_item_element(item *Item) {
 }
 
 
-func parse_feed(config Config, body []byte) {
+func ParseFeed(config Config, body []byte) {
 	var rss RSS
 	xml.Unmarshal(body, &rss)
 
@@ -239,15 +212,3 @@ func process_items(config Config, items []Item) {
 	}
 }
 
-func main() {
-	if len(os.Args) < 2 {
-		fmt.Printf("You must give the name of a feed to process.\n")
-		return
-	}
-	config_filename := os.Args[1] + ".json"
-	config := get_config(filepath.Join("/home/msteen/personal/go-feed-processor/lambdas/", config_filename))
-
-	body := get_feed_body(config.Link)
-
-	parse_feed(config, body)
-}
