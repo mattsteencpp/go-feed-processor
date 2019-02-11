@@ -34,9 +34,13 @@ func main() {
 		return
 	}
 	configFilename := os.Args[1] + ".json"
-	config := processor.GetConfig(filepath.Join("/home/msteen/personal/go/src/github.com/mattsteencpp/go-feed-processor/config/", configFilename))
+	config, err := processor.GetConfig(filepath.Join("/home/msteen/personal/go/src/github.com/mattsteencpp/go-feed-processor/config/", configFilename))
 
-	body := processor.GetFeedBody(config.Link)
+	if err == nil {
+		body, err := processor.GetFeedBody(config.Link)
 
-	processor.ParseFeed(config, body)
+		if err == nil {
+			processor.ParseFeed(config, body)
+		}
+	}
 }

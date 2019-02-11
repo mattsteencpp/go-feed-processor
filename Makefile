@@ -10,8 +10,7 @@ LIBRARY_NAME=processor
 PROJECT_PATH=github.com/mattsteencpp/go-feed-processor
 EXE_PATH=$GOPATH/bin
 
-#all: test build
-all: build
+all: test build
 build:
 	$(GOINSTALL) $(PROJECT_PATH)/$(LIBRARY_NAME)
 	$(GOINSTALL) $(PROJECT_PATH)/$(BINARY_NAME)
@@ -21,5 +20,7 @@ clean:
 	$(GOCLEAN)
 	rm -f $(EXE_PATH)/$(BINARY_NAME)
 	rm -f $(EXE_PATH)/$(LIBRARY_NAME)
+format:
+	gofmt -w .
 run:
 	$(BINARY_NAME)

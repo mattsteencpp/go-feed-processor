@@ -75,28 +75,31 @@ type File struct {
 	Links        []string
 }
 
-func GetFeedBody(url string) []byte {
+func GetFeedBody(url string) ([]byte, error) {
 	resp, err := http.Get(url)
 	if err != nil {
 		fmt.Printf("There was an error\n")
+		return nil, err
 	}
 	defer resp.Body.Close()
 	body, err := ioutil.ReadAll(resp.Body)
-	return body
+	return body, nil
 }
 
-func GetConfig(filename string) Config {
+func GetConfig(filename string) (Config, error) {
+	var config Config
 	file, err := os.Open(filename)
 	if err != nil {
 		fmt.Println("error:", err)
+		return config, err
 	}
 	decoder := json.NewDecoder(file)
-	var config Config
 	err = decoder.Decode(&config)
 	if err != nil {
 		fmt.Println("error:", err)
+		return config, err
 	}
-	return config
+	return config, nil
 }
 
 func includeItem(item *Item, matchType string, match string) {
@@ -104,7 +107,7 @@ func includeItem(item *Item, matchType string, match string) {
 	fmt.Printf("   ID: %s\n", item.ID)
 	fmt.Printf("   Author: %s\n", item.Author)
 	fmt.Printf("   Published: %s\n", item.Date)
-	fmt.Printf("   Content: %s\n", item.Content)
+	fmt.Printf("   Content: %s...\n", item.Content[0:100])
 	fmt.Printf("   Matched on %s: %s\n", matchType, match)
 	item.Included = true
 }

@@ -1,9 +1,14 @@
 package processor
 
-import "testing"
+import (
+	"strings"
+	"testing"
+)
 
+// confirm that GetConfig reads a config file from disk and parses the json properties successfully
 func TestGetConfig(t *testing.T) {
-	config, err := GetConfig("/home/msteen/personal/go/src/github.com/mattsteencpp/go-feed-processor/config/test_config.json")
+	filename := "/home/msteen/personal/go/src/github.com/mattsteencpp/go-feed-processor/config/test_config.json"
+	config, err := GetConfig(filename)
 	if err != nil {
 		t.Errorf("Could not load config")
 	}
@@ -50,13 +55,43 @@ func TestGetConfig(t *testing.T) {
 	}
 }
 
-/* func TestGetFeedBody(t *testing.T) {
+// confirm that GetFeedBody, given a url, fetches an xml document from that url
+func TestGetFeedBody(t *testing.T) {
+	url := "http://feed.thisamericanlife.org/talpodcast"
+    body, err := GetFeedBody(url)
+
+	if err != nil {
+		t.Errorf("Could not load config")
+	}
+
+	minLength := 10000
+	if len(body) < minLength {
+		t.Errorf("len(body) > %d, got %d", minLength, len(body))
+	}
+
+	expectedStrings := [...]string{"<?xml", "This American Life"}
+	for i := 0; i < len(expectedStrings); i++ {
+		expectedString := expectedStrings[i]
+		if !strings.Contains(string(body), expectedString) {
+			t.Errorf("body contains %q, not found. body: %q", expectedString, body)
+		}
+	}
+}
+
+/*
+func TestParseFeedStandard(t *testing.T) {
 
 }
 */
 
 /*
-func TestParseFeed(t *testing.T) {
+func TestParseFeedAtom(t *testing.T) {
+
+}
+*/
+
+/*
+func TestParseFeedItunes(t *testing.T) {
 
 }
 */
