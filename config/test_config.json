@@ -1,0 +1,17 @@
+{
+	"Link": "http://feed.thisamericanlife.org/talpodcast",
+	"Files": [
+		{
+			"Filename": "excluded",
+			"EpisodeRegex": "#?(\\d*):.*",
+			"Titles": [
+				"Boring",
+				"Repeat"
+			]
+		},
+		{
+			"Filename": "main",
+			"IncludeAll": true
+		}
+	]
+}
