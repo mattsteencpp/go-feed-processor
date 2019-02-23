@@ -1,8 +1,13 @@
 {
 	"Link": "https://rss.art19.com/freakonomics-radio",
+	"FeedType": "standard",
+    "ShouldFindAuthor": false,
+    "ShouldFindContent": false,
+    "ShouldFindID": true,
 	"Files": [
 		{
 			"Filename": "excluded",
+			"ExpectedTestMatches": 4,
 			"Titles": [
 				"rebroadcast",
 				"Rebroadcast",
@@ -11,6 +16,7 @@
 		},
 		{
 			"Filename": "main",
+			"ExpectedTestMatches": 20,
 			"IncludeAll": true
 		}
 	]

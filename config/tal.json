@@ -1,5 +1,9 @@
 {
 	"Link": "http://feed.thisamericanlife.org/talpodcast",
+	"FeedType": "standard",
+	"ShouldFindAuthor": true,
+    "ShouldFindContent": false,
+    "ShouldFindTAL": true,
 	"Files": [
 		{
 			"Filename": "excluded",
@@ -7,6 +11,7 @@
 		},
 		{
 			"Filename": "main",
+			"ExpectedTestMatches": 10,
 			"IncludeAll": true
 		}
 	]

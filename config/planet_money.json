@@ -1,5 +1,9 @@
 {
 	"Link": "https://www.npr.org/rss/podcast.php?id=510289",
+	"FeedType": "standard",
+	"ShouldFindAuthor": false,
+	"ShouldFindContent": false,
+	"ShouldFindID": true,
 	"Files": [
 		{
 			"Filename": "excluded",
@@ -7,6 +11,7 @@
 		},
 		{
 			"Filename": "main",
+			"ExpectedTestMatches": 300,
 			"IncludeAll": true
 		}
 	]

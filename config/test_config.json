@@ -1,5 +1,6 @@
 {
 	"Link": "http://feed.thisamericanlife.org/talpodcast",
+	"FeedType": "standard",
 	"Files": [
 		{
 			"Filename": "excluded",

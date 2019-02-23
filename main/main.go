@@ -1,10 +1,5 @@
 package main
 
-// TODO: add tests
-
-// TODO?
-// consider adding a setting for whether the feed uses atom, itunes, or not instead of trying raw every time
-
 // TODO
 // tal and planet money - need episode support
 // (other feeds work...)

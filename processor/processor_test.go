@@ -1,6 +1,7 @@
 package processor
 
 import (
+	"path/filepath"
 	"strings"
 	"testing"
 )
@@ -17,6 +18,12 @@ func TestGetConfig(t *testing.T) {
 
 	if config.Link != expectedLink {
 		t.Errorf("config.Link == %q, got %q", expectedLink, config.Link)
+	}
+
+	expectedFeedType := "standard"
+
+	if config.FeedType != expectedFeedType {
+		t.Errorf("config.FeedType == %q, got %q", expectedFeedType, config.FeedType)
 	}
 
 	if len(config.Files) != 2 {
@@ -58,10 +65,10 @@ func TestGetConfig(t *testing.T) {
 // confirm that GetFeedBody, given a url, fetches an xml document from that url
 func TestGetFeedBody(t *testing.T) {
 	url := "http://feed.thisamericanlife.org/talpodcast"
-    body, err := GetFeedBody(url)
+	body, err := GetFeedBody(url)
 
 	if err != nil {
-		t.Errorf("Could not load config")
+		t.Errorf("Could not load feed")
 	}
 
 	minLength := 10000
@@ -78,20 +85,57 @@ func TestGetFeedBody(t *testing.T) {
 	}
 }
 
-/*
-func TestParseFeedStandard(t *testing.T) {
+// confirm that all feeds can be parsed from file
+func TestParsing(t *testing.T) {
+	feeds := []string{"arseblog", "atlantic", "freakonomics", "fresh_air", "hacker_news", "planet_money", "tal"}
+	for i := 0; i < len(feeds); i++ {
+		// load actual config
+		configFilename := feeds[i] + ".json"
+		config, err := GetConfig(filepath.Join("/home/msteen/personal/go/src/github.com/mattsteencpp/go-feed-processor/config/", configFilename))
+		if err != nil {
+			t.Errorf("An error occurred reading the config file %s", configFilename)
+		}
 
+		// load sample file (instead of url)
+		feedFilename := feeds[i] + ".xml"
+		body, err := GetFeedBody(filepath.Join("/home/msteen/personal/go/src/github.com/mattsteencpp/go-feed-processor/fixtures/", feedFilename))
+		if err != nil {
+			t.Errorf("An error occurred reading the example feed file %s", feedFilename)
+		}
+
+		items := GetItems(config, body)
+
+		// parse items for each file in config
+		for j := 0; j < len(config.Files); j++ {
+			file := config.Files[j]
+
+			matchingItems := GetMatchingItems(file, items)
+
+			for k := 0; k < len(matchingItems); k++ {
+				item := matchingItems[k]
+				if item.Link == "" {
+					t.Errorf("No link found for item in feed %s", feeds[i])
+				}
+				if item.Title == "" {
+					t.Errorf("No title found for item in feed %s, %v", feeds[i], item)
+				}
+				if config.ShouldFindAuthor && item.Author == "" {
+					t.Errorf("No author found for item in feed %s: %s", feeds[i], item.Title)
+				}
+				if config.ShouldFindContent && item.Content == "" {
+					t.Errorf("No content found for item in feed %s", feeds[i])
+				}
+				if item.Date == "" {
+					t.Errorf("No date found for item in feed %s", feeds[i])
+				}
+				if config.ShouldFindID && item.ID == "" {
+					t.Errorf("No ID found for item in feed %s", feeds[i])
+				}
+			}
+
+			if len(matchingItems) != file.ExpectedTestMatches {
+				t.Errorf("Unexpected item count for feed %s, file %s. Found %d items, expected %d", feeds[i], file.Filename, len(matchingItems), file.ExpectedTestMatches)
+			}
+		}
+	}
 }
-*/
-
-/*
-func TestParseFeedAtom(t *testing.T) {
-
-}
-*/
-
-/*
-func TestParseFeedItunes(t *testing.T) {
-
-}
-*/
