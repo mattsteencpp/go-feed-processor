@@ -2,8 +2,8 @@
 	"Link": "https://news.ycombinator.com/rss",
 	"FeedType": "standard",
 	"ShouldFindAuthor": false,
-    "ShouldFindContent": false,
-    "ShouldFindID": false,
+	"ShouldFindContent": false,
+	"ShouldFindID": false,
 	"Files": [
 		{
 			"Filename": "excluded",

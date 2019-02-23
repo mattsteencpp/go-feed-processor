@@ -1,9 +1,9 @@
 {
 	"Link": "https://www.npr.org/rss/podcast.php?id=381444908",
 	"FeedType": "standard",
-    "ShouldFindAuthor": false,
-    "ShouldFindContent": false,
-    "ShouldFindID": true,
+	"ShouldFindAuthor": false,
+	"ShouldFindContent": false,
+	"ShouldFindID": true,
 	"Files": [
 		{
 			"Filename": "excluded",

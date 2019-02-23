@@ -2,8 +2,8 @@
 	"Link": "http://feeds.feedburner.com/TheAtlantic",
 	"FeedType": "alternate",
 	"ShouldFindAuthor": true,
-    "ShouldFindContent": true,
-    "ShouldFindID": true,
+	"ShouldFindContent": true,
+	"ShouldFindID": true,
 	"Files": [
 		{
 			"Filename": "excluded",

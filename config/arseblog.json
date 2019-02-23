@@ -1,9 +1,9 @@
 {
 	"Link": "https://arseblog.com/feed",
 	"FeedType": "standard",
-    "ShouldFindAuthor": true,
-    "ShouldFindContent": true,
-    "ShouldFindID": true,
+	"ShouldFindAuthor": true,
+	"ShouldFindContent": true,
+	"ShouldFindID": true,
 	"Files": [
 		{
 			"Filename": "excluded",
