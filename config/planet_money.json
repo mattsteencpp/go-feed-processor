@@ -1,0 +1,18 @@
+{
+	"Link": "https://www.npr.org/rss/podcast.php?id=510289",
+	"FeedType": "standard",
+	"ShouldFindAuthor": false,
+	"ShouldFindContent": false,
+	"ShouldFindID": true,
+	"Files": [
+		{
+			"Filename": "excluded",
+			"EpisodeRegex": "#(\\d*):.*"
+		},
+		{
+			"Filename": "main",
+			"ExpectedTestMatches": 300,
+			"IncludeAll": true
+		}
+	]
+}

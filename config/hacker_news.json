@@ -1,8 +1,13 @@
 {
 	"Link": "https://news.ycombinator.com/rss",
+	"FeedType": "standard",
+	"ShouldFindAuthor": false,
+	"ShouldFindContent": false,
+	"ShouldFindID": false,
 	"Files": [
 		{
 			"Filename": "excluded",
+			"ExpectedTestMatches": 6,
 			"Titles": [
 				"Show HN",
 				"Ask HN",
@@ -22,7 +27,8 @@
 		},
 		{
 			"Filename": "main",
-			"Include_All": true
+			"ExpectedTestMatches": 30,
+			"IncludeAll": true
 		}
 	]
 }

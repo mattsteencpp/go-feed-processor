@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:art19="https://art19.com/xmlns/rss-extensions/1.0">
+  <channel>
+    <title>Freakonomics Radio</title>
+    <description>
+      <![CDATA[<p>Discover the hidden side of everything with Stephen J. Dubner, co-author of the&nbsp;<em>Freakonomics</em>&nbsp;books. Each week,&nbsp;<em>Freakonomics Radio</em>&nbsp;tells you things you always thought you knew (but didn’t) and things you never thought you wanted to know (but do) —&nbsp;from the economics of sleep to how to become great at just about anything. Dubner speaks with Nobel laureates and provocateurs, intellectuals and entrepreneurs, and various other underachievers. Special features include series like “The Secret Life of a C.E.O.” as well as a live game show, “Tell Me Something I Don’t Know.”&nbsp;</p>]]>
+    </description>
+    <managingEditor>originals@stitcher.com (Stitcher)</managingEditor>
+    <copyright>© Dubner Productions and Stitcher</copyright>
+    <generator>ART19</generator>
+    <atom:link href="https://rss.art19.com/freakonomics-radio" rel="self" type="application/rss+xml"/>
+    <link>http://freakonomics.com/</link>
+    <itunes:owner>
+      <itunes:name>Stitcher</itunes:name>
+      <itunes:email>originals@stitcher.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>​Dubner Productions and Stitcher</itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>Discover the hidden side of everything with Stephen J. Dubner, co-author of the&nbsp;<em>Freakonomics</em>&nbsp;books. Each week,&nbsp;<em>Freakonomics Radio</em>&nbsp;tells you things you always thought you knew (but didn’t) and things you never thought you wanted to know (but do) —&nbsp;from the economics of sleep to how to become great at just about anything. Dubner speaks with Nobel laureates and provocateurs, intellectuals and entrepreneurs, and various other underachievers. Special features include series like “The Secret Life of a C.E.O.” as well as a live game show, “Tell Me Something I Don’t Know.”&nbsp;</p>]]>
+    </itunes:summary>
+    <language>en</language>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:keywords>Dubner Productions,Stitcher,Stephen J. Dubner,Freakonomics Radio</itunes:keywords>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://content.production.cdn.art19.com/images/01/73/7e/02/01737e02-609c-40c0-8cb1-6c010b5a170b/7300ad8b177115c141228ae24897bb5b828ba645232b5732ec43d9610a782138cd3d69d0c88f44559420c2ded82022e03600e57040740f1c7b42c93bfc06a675.jpeg"/>
+    <image>
+      <url>https://content.production.cdn.art19.com/images/01/73/7e/02/01737e02-609c-40c0-8cb1-6c010b5a170b/7300ad8b177115c141228ae24897bb5b828ba645232b5732ec43d9610a782138cd3d69d0c88f44559420c2ded82022e03600e57040740f1c7b42c93bfc06a675.jpeg</url>
+      <link>http://freakonomics.com/</link>
+      <title>Freakonomics Radio</title>
+    </image>
+    <item>
+      <title>367. The Future of Meat</title>
+      <description>
+        <![CDATA[<p>Global demand for beef, chicken, and pork continues to rise. So do concerns about environmental and other costs. Will reconciling these two forces be possible — or, even better, Impossible™?</p>]]>
+      </description>
+      <itunes:title>The Future of Meat</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>367</itunes:episode>
+      <itunes:summary>Global demand for beef, chicken, and pork continues to rise. So do concerns about environmental and other costs. Will reconciling these two forces be possible — or, even better, Impossible™?</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Global demand for beef, chicken, and pork continues to rise. So do concerns about environmental and other costs. Will reconciling these two forces be possible — or, even better, Impossible™?</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/PG_hUK0HJXba2pKIZjPAGcMueRlIDapAc8CM1FkdpSE</guid>
+      <pubDate>Thu, 14 Feb 2019 04:00:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://content.production.cdn.art19.com/images/01/73/7e/02/01737e02-609c-40c0-8cb1-6c010b5a170b/7300ad8b177115c141228ae24897bb5b828ba645232b5732ec43d9610a782138cd3d69d0c88f44559420c2ded82022e03600e57040740f1c7b42c93bfc06a675.jpeg"/>
+      <itunes:keywords>dubner productions,stitcher,Stephen J. Dubner,freakonomics radio,meat,Impossible Burger</itunes:keywords>
+      <itunes:duration>00:51:47</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/7f54f1fb-965c-4978-88cf-ba1fce2bd917.mp3" type="audio/mpeg" length="49712483"/>
+    </item>
+    <item>
+      <title>366. This Economist Predicted the Last Crisis. What’s the Next One?</title>
+      <description>
+        <![CDATA[<p>In 2005, Raghuram Rajan said the financial system was at risk “of a catastrophic meltdown.” After stints at the I.M.F. and India’s central bank, he sees another potential crisis — and he offers a solution. Is it stronger governments? Freer markets? Rajan’s answer: neither.</p>]]>
+      </description>
+      <itunes:title>This Economist Predicted the Last Crisis. What’s the Next One?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>366</itunes:episode>
+      <itunes:summary>In 2005, Raghuram Rajan said the financial system was at risk “of a catastrophic meltdown.” After stints at the I.M.F. and India’s central bank, he sees another potential crisis — and he offers a solution. Is it stronger governments? Freer markets? Rajan’s answer: neither.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>In 2005, Raghuram Rajan said the financial system was at risk “of a catastrophic meltdown.” After stints at the I.M.F. and India’s central bank, he sees another potential crisis — and he offers a solution. Is it stronger governments? Freer markets? Rajan’s answer: neither.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/cPSFwgNzShuvbCeQSdRxNCsVJdG5ZFD6t71f7_k-2ZY</guid>
+      <pubDate>Thu, 07 Feb 2019 04:00:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://content.production.cdn.art19.com/images/01/73/7e/02/01737e02-609c-40c0-8cb1-6c010b5a170b/7300ad8b177115c141228ae24897bb5b828ba645232b5732ec43d9610a782138cd3d69d0c88f44559420c2ded82022e03600e57040740f1c7b42c93bfc06a675.jpeg"/>
+      <itunes:keywords>raghuram rajan,dubner productions,stitcher,Stephen J. Dubner,freakonomics radio</itunes:keywords>
+      <itunes:duration>00:49:08</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/c6a1902f-fc42-4ef3-954e-44b141e315d3.mp3" type="audio/mpeg" length="47168783"/>
+    </item>
+    <item>
+      <title>Extra: Domonique Foxworth Full Interview</title>
+      <description>
+        <![CDATA[<p>Stephen Dubner’s conversation with the former N.F.L. player, union official, and all-around sports thinker, recorded for our “Hidden Side of Sports” series.</p>]]>
+      </description>
+      <itunes:title>Extra: Domonique Foxworth Full Interview</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Stephen Dubner’s conversation with the former N.F.L. player, union official, and all-around sports thinker, recorded for our “Hidden Side of Sports” series.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Stephen Dubner’s conversation with the former N.F.L. player, union official, and all-around sports thinker, recorded for our “Hidden Side of Sports” series.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/DLZGR6RewlADU6esK0u47tTtRDigU8y2MxAFcTTLScI</guid>
+      <pubDate>Sat, 02 Feb 2019 13:00:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://content.production.cdn.art19.com/images/01/73/7e/02/01737e02-609c-40c0-8cb1-6c010b5a170b/7300ad8b177115c141228ae24897bb5b828ba645232b5732ec43d9610a782138cd3d69d0c88f44559420c2ded82022e03600e57040740f1c7b42c93bfc06a675.jpeg"/>
+      <itunes:keywords>dubner productions,stitcher,Stephen J. Dubner,freakonomics radio,domonique foxworth</itunes:keywords>
+      <itunes:duration>01:29:52</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/268ff4f3-bb09-4ecd-935f-da567dd3d8f5.mp3" type="audio/mpeg" length="86284747"/>
+    </item>
+    <item>
+      <title>365. Not Just Another Labor Force</title>
+      <description>
+        <![CDATA[<p>If you think talent and hard work give top athletes all the leverage to succeed, think again. As employees in the Sports-Industrial Complex, they’ve got a tight earnings window, a high injury rate, little choice in where they work — and a very early forced retirement. (Ep. 6 of “The Hidden Side of Sports” series.)</p>]]>
+      </description>
+      <itunes:title>Not Just Another Labor Force</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>365</itunes:episode>
+      <itunes:summary>If you think talent and hard work give top athletes all the leverage to succeed, think again. As employees in the Sports-Industrial Complex, they’ve got a tight earnings window, a high injury rate, little choice in where they work — and a very early forced retirement. (Ep. 6 of “The Hidden Side of Sports” series.)</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>If you think talent and hard work give top athletes all the leverage to succeed, think again. As employees in the Sports-Industrial Complex, they’ve got a tight earnings window, a high injury rate, little choice in where they work — and a very early forced retirement. (Ep. 6 of “The Hidden Side of Sports” series.)</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/yx5razEK-D9ByLPfZIwJ2ZzuD-nhboDTNg_txUnJ8SI</guid>
+      <pubDate>Thu, 31 Jan 2019 04:00:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://content.production.cdn.art19.com/images/01/73/7e/02/01737e02-609c-40c0-8cb1-6c010b5a170b/7300ad8b177115c141228ae24897bb5b828ba645232b5732ec43d9610a782138cd3d69d0c88f44559420c2ded82022e03600e57040740f1c7b42c93bfc06a675.jpeg"/>
+      <itunes:keywords>dubner productions,stitcher,Stephen J. Dubner,freakonomics radio,sports</itunes:keywords>
+      <itunes:duration>01:00:07</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/3eb560ae-0e51-40d5-9bd7-8efbc2e7fe32.mp3" type="audio/mpeg" length="57712640"/>
+    </item>
+    <item>
+      <title>Extra: Mark Cuban Full Interview</title>
+      <description>
+        <![CDATA[<p>A conversation with the <em>Shark Tank</em> star, entrepreneur, and Dallas Mavericks owner recorded for the <em>Freakonomics Radio</em> series “The Hidden Side of Sports.”</p>]]>
+      </description>
+      <itunes:title>Extra: Mark Cuban Full Interview</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>A conversation with the Shark Tank star, entrepreneur, and Dallas Mavericks owner recorded for the Freakonomics Radio series “The Hidden Side of Sports.”</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>A conversation with the <em>Shark Tank</em> star, entrepreneur, and Dallas Mavericks owner recorded for the <em>Freakonomics Radio</em> series “The Hidden Side of Sports.”</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/9ijGv2nVDKDdfzYDfPK_koSh4i6jKEfJA6aUW2FQTNI</guid>
+      <pubDate>Sat, 26 Jan 2019 13:00:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://content.production.cdn.art19.com/images/01/73/7e/02/01737e02-609c-40c0-8cb1-6c010b5a170b/7300ad8b177115c141228ae24897bb5b828ba645232b5732ec43d9610a782138cd3d69d0c88f44559420c2ded82022e03600e57040740f1c7b42c93bfc06a675.jpeg"/>
+      <itunes:keywords>dubner productions,stitcher,Stephen J. Dubner,freakonomics radio,Mark Cuban</itunes:keywords>
+      <itunes:duration>00:42:04</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/bf060d5e-13db-412d-9bb9-4bae9900a212.mp3" type="audio/mpeg" length="40385724"/>
+    </item>
+    <item>
+      <title>364. Inside the Sports-Industrial Complex</title>
+      <description>
+        <![CDATA[<p>For most of us, the athletes are what make sports interesting. But if you own the team or run the league, your players are essentially very expensive migrant workers who eat into your profits. We talk to N.F.L., N.B.A., and U.F.C. executives about labor costs, viewership numbers, legalized gambling, and the rise of e-sports. (Ep. 5 of “The Hidden Side of Sports” series.)</p>]]>
+      </description>
+      <itunes:title>Inside the Sports-Industrial Complex</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>364</itunes:episode>
+      <itunes:summary>For most of us, the athletes are what make sports interesting. But if you own the team or run the league, your players are essentially very expensive migrant workers who eat into your profits. We talk to N.F.L., N.B.A., and U.F.C. executives about labor costs, viewership numbers, legalized gambling, and the rise of e-sports. (Ep. 5 of “The Hidden Side of Sports” series.)</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>For most of us, the athletes are what make sports interesting. But if you own the team or run the league, your players are essentially very expensive migrant workers who eat into your profits. We talk to N.F.L., N.B.A., and U.F.C. executives about labor costs, viewership numbers, legalized gambling, and the rise of e-sports. (Ep. 5 of “The Hidden Side of Sports” series.)</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/iNzeiQ-VrRe6ew8Av-m4u_7F9kKxe3ZMpqmi6Ycg1LM</guid>
+      <pubDate>Thu, 24 Jan 2019 04:00:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://content.production.cdn.art19.com/images/01/73/7e/02/01737e02-609c-40c0-8cb1-6c010b5a170b/7300ad8b177115c141228ae24897bb5b828ba645232b5732ec43d9610a782138cd3d69d0c88f44559420c2ded82022e03600e57040740f1c7b42c93bfc06a675.jpeg"/>
+      <itunes:keywords>dubner productions,stitcher,Stephen J. Dubner,freakonomics radio,sports</itunes:keywords>
+      <itunes:duration>00:52:50</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/db6cb73d-aa1c-41ee-907f-7c58c4cda13e.mp3" type="audio/mpeg" length="50720600"/>
+    </item>
+    <item>
+      <title>Extra: Mark Teixeira Full Interview</title>
+      <description>
+        <![CDATA[<p>A conversation with former Major League Baseball player and current ESPN analyst Mark Teixeira, recorded for the <em>Freakonomics Radio</em> series “The Hidden Side of Sports.”</p>]]>
+      </description>
+      <itunes:title>Extra: Mark Teixeira Full Interview</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>A conversation with former Major League Baseball player and current ESPN analyst Mark Teixeira, recorded for the Freakonomics Radio series “The Hidden Side of Sports.”</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>A conversation with former Major League Baseball player and current ESPN analyst Mark Teixeira, recorded for the <em>Freakonomics Radio</em> series “The Hidden Side of Sports.”</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/AmHMRmPWCKprNijLProExfN8zrKFoUZAN92sl7D6D7o</guid>
+      <pubDate>Sat, 19 Jan 2019 13:00:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://content.production.cdn.art19.com/images/01/73/7e/02/01737e02-609c-40c0-8cb1-6c010b5a170b/7300ad8b177115c141228ae24897bb5b828ba645232b5732ec43d9610a782138cd3d69d0c88f44559420c2ded82022e03600e57040740f1c7b42c93bfc06a675.jpeg"/>
+      <itunes:keywords>Mark Teixeira,dubner productions,stitcher,Stephen J. Dubner,freakonomics radio</itunes:keywords>
+      <itunes:duration>00:58:39</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/c03bf42d-0b18-40e5-8ff7-a094002f0849.mp3" type="audio/mpeg" length="56304535"/>
+    </item>
+    <item>
+      <title>363. Think Like a Winner</title>
+      <description>
+        <![CDATA[<p>Great athletes aren’t just great at the physical stuff. They’ve also learned how to handle pressure, overcome fear, and stay focused. Here’s the good news: you don’t have to be an athlete to use what they know. (Ep. 4 of “The Hidden Side of Sports” series.)</p>]]>
+      </description>
+      <itunes:title>Think Like a Winner</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>363</itunes:episode>
+      <itunes:summary>Great athletes aren’t just great at the physical stuff. They’ve also learned how to handle pressure, overcome fear, and stay focused. Here’s the good news: you don’t have to be an athlete to use what they know. (Ep. 4 of “The Hidden Side of Sports” series.)</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Great athletes aren’t just great at the physical stuff. They’ve also learned how to handle pressure, overcome fear, and stay focused. Here’s the good news: you don’t have to be an athlete to use what they know. (Ep. 4 of “The Hidden Side of Sports” series.)</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/TyVM7sYtieFgKoqZw1XOC9aXt3nKNGaslOHCyMI0qdY</guid>
+      <pubDate>Thu, 17 Jan 2019 04:00:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://content.production.cdn.art19.com/images/01/73/7e/02/01737e02-609c-40c0-8cb1-6c010b5a170b/7300ad8b177115c141228ae24897bb5b828ba645232b5732ec43d9610a782138cd3d69d0c88f44559420c2ded82022e03600e57040740f1c7b42c93bfc06a675.jpeg"/>
+      <itunes:keywords>sports,dubner productions,stitcher,Stephen J. Dubner,freakonomics radio</itunes:keywords>
+      <itunes:duration>00:55:05</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/3a3bd53e-936c-4829-8eab-a4520f40bbef.mp3" type="audio/mpeg" length="52880613"/>
+    </item>
+    <item>
+      <title>Hacking the World Bank (Ep. 197 Update)</title>
+      <description>
+        <![CDATA[<p>Jim Yong Kim has an unorthodox background for a World Bank president — and his reign has been just as unorthodox. He has just announced he’s stepping down, well before his term is over; we recorded this interview with him in 2015.</p>]]>
+      </description>
+      <itunes:title>Hacking the World Bank (Ep. 197 Update)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Jim Yong Kim has an unorthodox background for a World Bank president — and his reign has been just as unorthodox. He has just announced he’s stepping down, well before his term is over; we recorded this interview with him in 2015.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Jim Yong Kim has an unorthodox background for a World Bank president — and his reign has been just as unorthodox. He has just announced he’s stepping down, well before his term is over; we recorded this interview with him in 2015.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/o5E_SJndoKWQaTZ-aUHj8zRhwIMRIOtGrliN9I4jN00</guid>
+      <pubDate>Sat, 12 Jan 2019 13:00:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://content.production.cdn.art19.com/images/01/73/7e/02/01737e02-609c-40c0-8cb1-6c010b5a170b/7300ad8b177115c141228ae24897bb5b828ba645232b5732ec43d9610a782138cd3d69d0c88f44559420c2ded82022e03600e57040740f1c7b42c93bfc06a675.jpeg"/>
+      <itunes:keywords>jim yong kim,dubner productions,stitcher,Stephen J. Dubner,freakonomics radio,world bank</itunes:keywords>
+      <itunes:duration>00:35:40</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/ba25e547-d0bd-4af5-b6e3-d4f50cc73517.mp3" type="audio/mpeg" length="34240470"/>
+    </item>
+    <item>
+      <title>362. Why Is This Man Running for President?</title>
+      <description>
+        <![CDATA[<p>In the American Dream sweepstakes, Andrew Yang was a pretty big winner. But for every winner, he came to realize, there are thousands upon thousands of losers — a “war on normal people,” he calls it. Here’s what he plans to do about it.</p>]]>
+      </description>
+      <itunes:title>Why Is This Man Running for President?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>362</itunes:episode>
+      <itunes:summary>In the American Dream sweepstakes, Andrew Yang was a pretty big winner. But for every winner, he came to realize, there are thousands upon thousands of losers — a “war on normal people,” he calls it. Here’s what he plans to do about it.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>In the American Dream sweepstakes, Andrew Yang was a pretty big winner. But for every winner, he came to realize, there are thousands upon thousands of losers — a “war on normal people,” he calls it. Here’s what he plans to do about it.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/M1bTK0LgvJ-g_Dyb4yAslTA_twftDSCm5RV1tmpt3AM</guid>
+      <pubDate>Thu, 10 Jan 2019 04:00:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://content.production.cdn.art19.com/images/01/73/7e/02/01737e02-609c-40c0-8cb1-6c010b5a170b/7300ad8b177115c141228ae24897bb5b828ba645232b5732ec43d9610a782138cd3d69d0c88f44559420c2ded82022e03600e57040740f1c7b42c93bfc06a675.jpeg"/>
+      <itunes:keywords>2020 Election,dubner productions,stitcher,Stephen J. Dubner,freakonomics radio,andrew yang</itunes:keywords>
+      <itunes:duration>00:52:10</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/ce5f03c5-8f78-4842-a52e-abf40bf00d77.mp3" type="audio/mpeg" length="50080705"/>
+    </item>
+    <item>
+      <title>How to Be Happy (Ep. 345 Rebroadcast)</title>
+      <description>
+        <![CDATA[<p>The U.N.’s World Happiness Report — created to curtail our unhealthy obsession with G.D.P. — is dominated every year by the Nordic countries. We head to Denmark to learn the secrets of this happiness epidemic (and to see if we should steal them).</p>]]>
+      </description>
+      <itunes:title>How to Be Happy (Ep. 345 Rebroadcast)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>The U.N.’s World Happiness Report — created to curtail our unhealthy obsession with G.D.P. — is dominated every year by the Nordic countries. We head to Denmark to learn the secrets of this happiness epidemic (and to see if we should steal them).</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>The U.N.’s World Happiness Report — created to curtail our unhealthy obsession with G.D.P. — is dominated every year by the Nordic countries. We head to Denmark to learn the secrets of this happiness epidemic (and to see if we should steal them).</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/x9xtMVsLp_oeuoYBuZnvdU_ENpJp_76f1X5yqeJAU_Q</guid>
+      <pubDate>Thu, 03 Jan 2019 04:00:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://content.production.cdn.art19.com/images/01/73/7e/02/01737e02-609c-40c0-8cb1-6c010b5a170b/7300ad8b177115c141228ae24897bb5b828ba645232b5732ec43d9610a782138cd3d69d0c88f44559420c2ded82022e03600e57040740f1c7b42c93bfc06a675.jpeg"/>
+      <itunes:keywords>dubner productions,stitcher,Stephen J. Dubner,freakonomics radio,hygge,happiness,denmark</itunes:keywords>
+      <itunes:duration>00:37:41</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/14309f5c-3ebd-485c-a29f-a64d9d0bdc35.mp3" type="audio/mpeg" length="36176457"/>
+    </item>
+    <item>
+      <title>How to Win Games and Beat People (Ep. 247 Rebroadcast)</title>
+      <description>
+        <![CDATA[<p>Games are as old as civilization itself, and some people think they have huge social value regardless of whether you win or lose. Tom Whipple is not one of those people. That’s why he consulted an army of preposterously overqualified experts to find the secret to winning any game.</p>]]>
+      </description>
+      <itunes:title>How to Win Games and Beat People (Ep. 247 Rebroadcast)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Games are as old as civilization itself, and some people think they have huge social value regardless of whether you win or lose. Tom Whipple is not one of those people. That’s why he consulted an army of preposterously overqualified experts to find the secret to winning any game.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Games are as old as civilization itself, and some people think they have huge social value regardless of whether you win or lose. Tom Whipple is not one of those people. That’s why he consulted an army of preposterously overqualified experts to find the secret to winning any game.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/C7zoaR5F7VqOuIFXz_32aWV5zmPno6Vk5E6yHwRKh9Q</guid>
+      <pubDate>Thu, 27 Dec 2018 04:00:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://content.production.cdn.art19.com/images/01/73/7e/02/01737e02-609c-40c0-8cb1-6c010b5a170b/7300ad8b177115c141228ae24897bb5b828ba645232b5732ec43d9610a782138cd3d69d0c88f44559420c2ded82022e03600e57040740f1c7b42c93bfc06a675.jpeg"/>
+      <itunes:keywords>Tom Whipple,dubner productions,stitcher,Stephen J. Dubner,freakonomics radio</itunes:keywords>
+      <itunes:duration>00:52:29</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/244c1078-8bf0-49ad-ae17-6a6a31fe2f80.mp3" type="audio/mpeg" length="50384561"/>
+    </item>
+    <item>
+      <title>People Aren’t Dumb. The World Is Hard. (Ep. 340 Rebroadcast)</title>
+      <description>
+        <![CDATA[<p>You wouldn’t think you could win a Nobel Prize for showing that humans tend to make irrational decisions. But that’s what Richard Thaler has done. The founder of behavioral economics describes his unlikely route to success; his reputation for being lazy; and his efforts to fix the world — one nudge at a time.</p>]]>
+      </description>
+      <itunes:title>People Aren’t Dumb. The World Is Hard. (Ep. 340 Rebroadcast)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>You wouldn’t think you could win a Nobel Prize for showing that humans tend to make irrational decisions. But that’s what Richard Thaler has done. The founder of behavioral economics describes his unlikely route to success; his reputation for being lazy; and his efforts to fix the world — one nudge at a time.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>You wouldn’t think you could win a Nobel Prize for showing that humans tend to make irrational decisions. But that’s what Richard Thaler has done. The founder of behavioral economics describes his unlikely route to success; his reputation for being lazy; and his efforts to fix the world — one nudge at a time.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/DpZnW7wOj2cgtq6uDZEULFVLF3Kql3H2ExbdRUtGATI</guid>
+      <pubDate>Thu, 20 Dec 2018 04:00:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://content.production.cdn.art19.com/images/01/73/7e/02/01737e02-609c-40c0-8cb1-6c010b5a170b/7300ad8b177115c141228ae24897bb5b828ba645232b5732ec43d9610a782138cd3d69d0c88f44559420c2ded82022e03600e57040740f1c7b42c93bfc06a675.jpeg"/>
+      <itunes:keywords>dubner productions,stitcher,Stephen J. Dubner,freakonomics radio,richard thaler</itunes:keywords>
+      <itunes:duration>00:57:57</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/8f6606bc-6d81-4882-86c0-35adecec2842.mp3" type="audio/mpeg" length="55632457"/>
+    </item>
+    <item>
+      <title>Freakonomics Radio Live: “The World’s a Mess. But Oysters, They Hold it Down.”</title>
+      <description>
+        <![CDATA[<p>Celebrity chef Alex Guarnaschelli joins us to co-host an evening of delicious fact-finding: where a trillion oysters went, whether a soda tax can work, and how beer helped build an empire. <em>Washington Post</em> columnist Alexandra Petri is our real-time fact-checker.</p>]]>
+      </description>
+      <itunes:title>Freakonomics Radio Live: “The World’s a Mess. But Oysters, They Hold it Down.”</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Celebrity chef Alex Guarnaschelli joins us to co-host an evening of delicious fact-finding: where a trillion oysters went, whether a soda tax can work, and how beer helped build an empire. Washington Post columnist Alexandra Petri is our real-time fact-checker.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Celebrity chef Alex Guarnaschelli joins us to co-host an evening of delicious fact-finding: where a trillion oysters went, whether a soda tax can work, and how beer helped build an empire. <em>Washington Post</em> columnist Alexandra Petri is our real-time fact-checker.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/DGzFWwxk0XnTnlmNxreWJeuWCsuj1vXA3y4nFAC7O88</guid>
+      <pubDate>Sat, 15 Dec 2018 13:00:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://content.production.cdn.art19.com/images/01/73/7e/02/01737e02-609c-40c0-8cb1-6c010b5a170b/7300ad8b177115c141228ae24897bb5b828ba645232b5732ec43d9610a782138cd3d69d0c88f44559420c2ded82022e03600e57040740f1c7b42c93bfc06a675.jpeg"/>
+      <itunes:keywords>dubner productions,stitcher,Stephen J. Dubner,freakonomics radio</itunes:keywords>
+      <itunes:duration>00:56:55</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/48d784c4-e534-49ba-bb6c-b031b1884456.mp3" type="audio/mpeg" length="54640640"/>
+    </item>
+    <item>
+      <title>Freakonomics Radio Live: “Where Does Fear Live in the Brain?”</title>
+      <description>
+        <![CDATA[<p>Our co-host is comedian Christian Finnegan, and we learn: the difference between danger and fear; the role of clouds in climate change; and why (and when) politicians are bad at math. <em>Washington Post</em> columnist Alexandra Petri is our real-time fact-checker.</p>]]>
+      </description>
+      <itunes:title>Freakonomics Radio Live: “Where Does Fear Live in the Brain?”</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Our co-host is comedian Christian Finnegan, and we learn: the difference between danger and fear; the role of clouds in climate change; and why (and when) politicians are bad at math. Washington Post columnist Alexandra Petri is our real-time fact-checker.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Our co-host is comedian Christian Finnegan, and we learn: the difference between danger and fear; the role of clouds in climate change; and why (and when) politicians are bad at math. <em>Washington Post</em> columnist Alexandra Petri is our real-time fact-checker.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/1VSPWZc-jM0WHA_u7R8qgS59Id0rPV10_etfFd7wwy0</guid>
+      <pubDate>Sat, 15 Dec 2018 13:00:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://content.production.cdn.art19.com/images/01/73/7e/02/01737e02-609c-40c0-8cb1-6c010b5a170b/7300ad8b177115c141228ae24897bb5b828ba645232b5732ec43d9610a782138cd3d69d0c88f44559420c2ded82022e03600e57040740f1c7b42c93bfc06a675.jpeg"/>
+      <itunes:keywords>dubner productions,stitcher,Stephen J. Dubner,freakonomics radio</itunes:keywords>
+      <itunes:duration>00:55:20</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/4a8cd899-4d7e-4665-9d61-b0250f0e72ad.mp3" type="audio/mpeg" length="53120522"/>
+    </item>
+    <item>
+      <title>Freakonomics Radio Live: “We Thought of a Way to Manipulate Your Perception of Time.”</title>
+      <description>
+        <![CDATA[<p>We learn how to be less impatient, how to tell fake news from real, and the simple trick that nurses used to make better predictions than doctors. Journalist Manoush Zomorodi co-hosts; our real-time fact-checker is the author and humorist A.J. Jacobs.</p>]]>
+      </description>
+      <itunes:title>Freakonomics Radio Live: “We Thought of a Way to Manipulate Your Perception of Time.”</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>We learn how to be less impatient, how to tell fake news from real, and the simple trick that nurses used to make better predictions than doctors. Journalist Manoush Zomorodi co-hosts; our real-time fact-checker is the author and humorist A.J. Jacobs.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>We learn how to be less impatient, how to tell fake news from real, and the simple trick that nurses used to make better predictions than doctors. Journalist Manoush Zomorodi co-hosts; our real-time fact-checker is the author and humorist A.J. Jacobs.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/f1H6RzRc9HYXkjAsV1lIy9jwA3g4jVI1W8_6nHqoPec</guid>
+      <pubDate>Sat, 15 Dec 2018 13:00:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://content.production.cdn.art19.com/images/01/73/7e/02/01737e02-609c-40c0-8cb1-6c010b5a170b/7300ad8b177115c141228ae24897bb5b828ba645232b5732ec43d9610a782138cd3d69d0c88f44559420c2ded82022e03600e57040740f1c7b42c93bfc06a675.jpeg"/>
+      <itunes:keywords>dubner productions,stitcher,Stephen J. Dubner,freakonomics radio</itunes:keywords>
+      <itunes:duration>00:56:39</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/7576d504-da69-46fc-96ad-27ab412cddbb.mp3" type="audio/mpeg" length="54384431"/>
+    </item>
+    <item>
+      <title>361. Freakonomics Radio Live: “Jesus Could Have Been a Pigeon.”</title>
+      <description>
+        <![CDATA[<p>Our co-host is <em>Grit</em> author Angela Duckworth, and we learn fascinating, Freakonomical facts from a parade of guests. For instance: what we all get wrong about Darwin; what an iPod has in common with the “hell ant”; and how a “memory athlete” memorizes a deck of cards. Mike Maughan is our real-time fact-checker.</p>]]>
+      </description>
+      <itunes:title>Freakonomics Radio Live: “Jesus Could Have Been a Pigeon.”</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>361</itunes:episode>
+      <itunes:summary>Our co-host is Grit author Angela Duckworth, and we learn fascinating, Freakonomical facts from a parade of guests. For instance: what we all get wrong about Darwin; what an iPod has in common with the “hell ant”; and how a “memory athlete” memorizes a deck of cards. Mike Maughan is our real-time fact-checker.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Our co-host is <em>Grit</em> author Angela Duckworth, and we learn fascinating, Freakonomical facts from a parade of guests. For instance: what we all get wrong about Darwin; what an iPod has in common with the “hell ant”; and how a “memory athlete” memorizes a deck of cards. Mike Maughan is our real-time fact-checker.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/GnSngZgiMaRzEDBmpUNKZx1p5fHFfkjHPiissUSTSio</guid>
+      <pubDate>Thu, 13 Dec 2018 04:00:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://content.production.cdn.art19.com/images/01/73/7e/02/01737e02-609c-40c0-8cb1-6c010b5a170b/7300ad8b177115c141228ae24897bb5b828ba645232b5732ec43d9610a782138cd3d69d0c88f44559420c2ded82022e03600e57040740f1c7b42c93bfc06a675.jpeg"/>
+      <itunes:keywords>dubner productions,stitcher,Stephen J. Dubner,freakonomics radio</itunes:keywords>
+      <itunes:duration>01:00:26</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/5e225679-82a3-4920-8b09-511d8ba30a55.mp3" type="audio/mpeg" length="58030289"/>
+    </item>
+    <item>
+      <title>360. Is the Protestant Work Ethic Real?</title>
+      <description>
+        <![CDATA[<p>In the early 20th century, Max Weber argued that Protestantism created wealth. Finally, there are data to prove if he was right. All it took were some missionary experiments in the Philippines and a clever map-matching trick that goes back to 16th-century Germany.</p>]]>
+      </description>
+      <itunes:title>Is the Protestant Work Ethic Real?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>360</itunes:episode>
+      <itunes:summary>In the early 20th century, Max Weber argued that Protestantism created wealth. Finally, there are data to prove if he was right. All it took were some missionary experiments in the Philippines and a clever map-matching trick that goes back to 16th-century Germany.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>In the early 20th century, Max Weber argued that Protestantism created wealth. Finally, there are data to prove if he was right. All it took were some missionary experiments in the Philippines and a clever map-matching trick that goes back to 16th-century Germany.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/Df7nFPxXKl17u0F-FJUL3L-TSW1y8Gp-FUmFjiC09Ms</guid>
+      <pubDate>Thu, 06 Dec 2018 04:00:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://content.production.cdn.art19.com/images/01/73/7e/02/01737e02-609c-40c0-8cb1-6c010b5a170b/7300ad8b177115c141228ae24897bb5b828ba645232b5732ec43d9610a782138cd3d69d0c88f44559420c2ded82022e03600e57040740f1c7b42c93bfc06a675.jpeg"/>
+      <itunes:keywords>dubner productions,stitcher,Stephen J. Dubner,freakonomics radio,religion,poverty,economics</itunes:keywords>
+      <itunes:duration>00:40:30</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/9380d4f6-71e4-4707-bbda-c76efbfe09d3.mp3" type="audio/mpeg" length="38880653"/>
+    </item>
+    <item>
+      <title>359. Should America Be Run by … Trader Joe’s?</title>
+      <description>
+        <![CDATA[<p>The quirky little grocery chain with California roots and German ownership has a lot to teach all of us about choice architecture, efficiency, frugality, collaboration, and team spirit.</p>]]>
+      </description>
+      <itunes:title>Should America Be Run by … Trader Joe’s?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>359</itunes:episode>
+      <itunes:summary>The quirky little grocery chain with California roots and German ownership has a lot to teach all of us about choice architecture, efficiency, frugality, collaboration, and team spirit.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>The quirky little grocery chain with California roots and German ownership has a lot to teach all of us about choice architecture, efficiency, frugality, collaboration, and team spirit.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/HxTnfnT1PXDqrDbSpPiaMTu8ksXNMnlW7Eekou49Nd8</guid>
+      <pubDate>Thu, 29 Nov 2018 04:00:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://content.production.cdn.art19.com/images/01/73/7e/02/01737e02-609c-40c0-8cb1-6c010b5a170b/7300ad8b177115c141228ae24897bb5b828ba645232b5732ec43d9610a782138cd3d69d0c88f44559420c2ded82022e03600e57040740f1c7b42c93bfc06a675.jpeg"/>
+      <itunes:keywords>dubner productions,stitcher,Stephen J. Dubner,freakonomics radio,trader joe's</itunes:keywords>
+      <itunes:duration>00:47:01</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/e56f8f9c-13c9-479c-a912-d87640082cab.mp3" type="audio/mpeg" length="45136666"/>
+    </item>
+    <item>
+      <title>There’s a War on Sugar. Is It Justified? (Ep. 285 Rebroadcast)</title>
+      <description>
+        <![CDATA[<p>Some people argue that sugar should be regulated, like alcohol and tobacco, on the grounds that it’s addictive and toxic. How much sense does that make? We hear from a regulatory advocate, an evidence-based skeptic, a former F.D.A. commissioner — and the organizers of Milktoberfest.</p>]]>
+      </description>
+      <itunes:title>There’s a War on Sugar. Is It Justified? (Ep. 285 Rebroadcast)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Some people argue that sugar should be regulated, like alcohol and tobacco, on the grounds that it’s addictive and toxic. How much sense does that make? We hear from a regulatory advocate, an evidence-based skeptic, a former F.D.A. commissioner — and the organizers of Milktoberfest.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Some people argue that sugar should be regulated, like alcohol and tobacco, on the grounds that it’s addictive and toxic. How much sense does that make? We hear from a regulatory advocate, an evidence-based skeptic, a former F.D.A. commissioner — and the organizers of Milktoberfest.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/IOwMhZCVTzHrqjfSSIgmmgCAs00vvkV_QYHiQ0lU8NE</guid>
+      <pubDate>Thu, 22 Nov 2018 04:00:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://content.production.cdn.art19.com/images/01/73/7e/02/01737e02-609c-40c0-8cb1-6c010b5a170b/7300ad8b177115c141228ae24897bb5b828ba645232b5732ec43d9610a782138cd3d69d0c88f44559420c2ded82022e03600e57040740f1c7b42c93bfc06a675.jpeg"/>
+      <itunes:keywords>sugar,dubner productions,stitcher,Stephen J. Dubner,freakonomics radio</itunes:keywords>
+      <itunes:duration>00:47:06</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/ac6bdc1c-6e1b-4805-849e-6fb5743294ef.mp3" type="audio/mpeg" length="45216496"/>
+    </item>
+  </channel>
+</rss>

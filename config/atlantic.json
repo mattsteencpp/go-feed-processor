@@ -1,8 +1,13 @@
 {
 	"Link": "http://feeds.feedburner.com/TheAtlantic",
+	"FeedType": "alternate",
+	"ShouldFindAuthor": true,
+	"ShouldFindContent": true,
+	"ShouldFindID": true,
 	"Files": [
 		{
 			"Filename": "excluded",
+			"ExpectedTestMatches": 5,
 			"Titles": [
 				"What We're Following",
 				"Track of the Day",
@@ -43,6 +48,7 @@
 		},
 		{
 			"Filename": "conor_friedersdorf",
+			"ExpectedTestMatches": 2,
 			"Authors": [
 				"Conor Friedersdorf"
 			]
@@ -61,6 +67,7 @@
 		},
 		{
 			"Filename": "images",
+			"ExpectedTestMatches": 2,
 			"Titles": [
 				"Sage, Ink:",
 				"Orbital View",
@@ -73,6 +80,7 @@
 		},
 		{
 			"Filename": "trump",
+			"ExpectedTestMatches": 4,
 			"Titles": [
 				"Trump"
 			],
@@ -82,7 +90,8 @@
 		},
 		{
 			"Filename": "main",
-			"Include_All": true
+			"ExpectedTestMatches": 24,
+			"IncludeAll": true
 		}
 	]
 }
